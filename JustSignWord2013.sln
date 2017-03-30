@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustSignWord2013", "JustSignWord2013\JustSignWord2013.csproj", "{99B222FB-B108-450A-9CC4-431EACDB87B8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "JustSignWord2013Installer", "JustSignWord2013Installer\JustSignWord2013Installer.vdproj", "{E8F8D662-D67A-43AB-817D-52C31153F253}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99B222FB-B108-450A-9CC4-431EACDB87B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B222FB-B108-450A-9CC4-431EACDB87B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B222FB-B108-450A-9CC4-431EACDB87B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B222FB-B108-450A-9CC4-431EACDB87B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8F8D662-D67A-43AB-817D-52C31153F253}.Debug|Any CPU.ActiveCfg = Debug
+		{E8F8D662-D67A-43AB-817D-52C31153F253}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
